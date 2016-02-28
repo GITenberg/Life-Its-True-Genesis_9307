@@ -1,0 +1,27 @@
+_repo: Life-Its-True-Genesis_9307
+creator:
+  author:
+    agent_name: Flaccus, Horatius
+    aliases:
+    - Wright, Robert William
+    - Redivivus, Quevedo
+    birthdate: 1816
+    deathdate: 1885
+    gutenberg_agent_id: '3008'
+    url: http://www.gutenberg.org/2009/agents/3008
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biology'
+- !lcc 'BL'
+- !lcsh 'Creation'
+- !lcsh 'Religion and science'
+title: 'Life: Its True Genesis'
+url: http://www.gutenberg.org/ebooks/9307
