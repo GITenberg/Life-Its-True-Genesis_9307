@@ -1,4 +1,8 @@
 _repo: Life-Its-True-Genesis_9307
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Flaccus, Horatius
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '3008'
     url: http://www.gutenberg.org/2009/agents/3008
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9307#Life-Its-True-Genesis
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
